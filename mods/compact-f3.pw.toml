@@ -1,0 +1,15 @@
+name = "Compact F3"
+side = "client"
+filename = "compactf3-1.2.0.jar"
+
+[update.modrinth]
+mod-id = "esHgHqnl"
+version = "SiVjhteI"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/esHgHqnl/versions/SiVjhteI/compactf3-1.2.0.jar"
+hash = "2d2921b96b1968da700f7f6d2192ddf68d9e77b82e63929e51c435c43e4268023514d785a245b1fb388f1e8e3df928a1673b766b48abc8671cdc942c0985f849"
+
+[option]
+optional = true

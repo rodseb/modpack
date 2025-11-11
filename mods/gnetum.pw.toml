@@ -1,0 +1,13 @@
+name = "Gnetum"
+filename = "gnetum-3.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7MoE34WK/versions/SCcmoqOY/gnetum-3.2.0.jar"
+hash-format = "sha512"
+hash = "e0db91fcc09f00df912024c9f807e0275ef2c3bf674659235311ec77ec77b268cec0a64ca32f039e1e107ad08979042e5bd57c8b32ef0dd8180d09c393d113cd"
+
+[update]
+[update.modrinth]
+mod-id = "7MoE34WK"
+version = "SCcmoqOY"

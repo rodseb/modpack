@@ -1,9 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/anvians-lib.pw.toml"
-hash = "1af4e749ca5f67f01f299515678b45c4df419ac9fcda503da4bb2c1af03bfa68"
-metafile = true
+file = "config/fml.toml"
+hash = "ae54768733410adc27681c133e6879af43482b3e05dabd9ef25a13ed13ceb994"
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
@@ -12,12 +11,17 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+hash = "67709efcf4c6094c8a7b3941c5b036f89d148decccd0fb779fed121d8e2cbcf8"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "a850075a3b7e380701f0291f6151487d0a05bb54db125c8edf9f96a696b73188"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
 
 [[files]]
@@ -31,6 +35,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/compact-f3.pw.toml"
+hash = "7afa8c9587f1a18f9511bbee2a947f062b60ec0babbdad2baf18a2e71f5ae586"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -41,8 +50,38 @@ hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "bbf03bec2bd4927ace16eef106c45b0f3ec53c48d5f43119520123ad98f3fdf1"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -56,6 +95,16 @@ hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "89826dce72cf38f02008d261d8c9cd86a2790f9b174b335d8b5caf8744891846"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
@@ -63,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
@@ -76,8 +130,8 @@ hash = "5417107980642ac94c2ec399132939ab4a87d83eff48d4fb7aada6f662b177b7"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "58ceb046380be656ff449cd62b79bc9540ff08b8502e1e8291c9715e5ca3c829"
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
@@ -86,13 +140,28 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "52e759f5dd318b47cf4eb094278a89d6a3d9b611e0b80f11c79a3cafd5e07bed"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
@@ -101,13 +170,33 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "bd655a806614985f8ad7a36ccde31ca70426fc207d4d4b046dd6a377e8814f18"
 metafile = true
 
 [[files]]
