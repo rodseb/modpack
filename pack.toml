@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "Seb"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c66376a021695fd4556d2a0043b0c319562493edb3685228b483350e27de879b"
+
+[versions]
+minecraft = "1.21.10"
+neoforge = "21.10.50-beta"
