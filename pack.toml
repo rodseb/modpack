@@ -13,5 +13,5 @@ minecraft = "1.21.1"
 neoforge = "21.1.215"
 
 [options]
-acceptable-game-versions = ["1.21.8"]
-datapack-folder = "resourcepacks"
+acceptable-game-versions = []
+datapack-folder = "datapack"
