@@ -36,6 +36,11 @@ hash = "22e4f9d337ebab5540ef4cf0d168c1e3122ac3e719915d2122507a6d21969f36"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "f5a486d2d1e597c8b1432dacf85c0c8d047107bd990702f46df7685171f36d1f"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "f3a2007cae75747fc8c5656fe2384467e89a37e38d5fcc611ee74bd625a64dbe"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "90dcea2c1174329eae01104efb0f5e561d6ce03bf10130774087d32b9858d19a"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "1f5ce52f26a53e6c079dda344f9cd3e9abf2c3a221a43fd6c26609ad7810f937"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Moonrise"
+filename = "Moonrise-NeoForge-0.8.0-beta.3+cc4ca1a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KOHu7RCS/versions/gIp4hnaj/Moonrise-NeoForge-0.8.0-beta.3%2Bcc4ca1a.jar"
+hash-format = "sha512"
+hash = "62a0fb2db40301fb6eacdeb7b06910a2cae39e75b5d4100a82ff1cdffda7b6ef4759e0e730b4337feabc5bfeee8cb43ac2083504859ad6a9c6b86b6dc4d78696"
+
+[update]
+[update.modrinth]
+mod-id = "KOHu7RCS"
+version = "gIp4hnaj"
