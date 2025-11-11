@@ -1,5 +1,51 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "7436e320fb37aa8238d338d6839d60965bb2908e16beb360866047f62845bc0c"
+file = "mods/cloth-config.pw.toml"
+hash = "5bd8950828a148798f3a5541f1a31f863ecb591c9c4c2f9a02f23efd9bf90ec3"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "d8bd3de31b1330002c415246248d315fddc8d8733d3d96a9ac712729ca1735fd"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c43fd68a16f58040cb4296d7f92fac73dc8f3d80cd8d031e4a8422ba83c5bb57"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a487a6fecdf081fc33667611d530b276ed0f2a3ba9458f25fc8f761f957e777"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c9cc0627c2a2e317b33f46a4f7ef0bcc52cc5fd8fe00a2665c2b1573b3bef1ef"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2a43cce7b1522239a1e297e9f10fea062cb48288dd66ef6a4a89a91e8ae2b40c"
+metafile = true
+
+[[files]]
+file = "mods/mclogs.pw.toml"
+hash = "22e4f9d337ebab5540ef4cf0d168c1e3122ac3e719915d2122507a6d21969f36"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f3a2007cae75747fc8c5656fe2384467e89a37e38d5fcc611ee74bd625a64dbe"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "90dcea2c1174329eae01104efb0f5e561d6ce03bf10130774087d32b9858d19a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6d51169189704b9c3c6aa268e998273a63ed94360b95ca4f24c3a08047557693"
+metafile = true
