@@ -1,13 +1,13 @@
 name = "mclo.gs"
-filename = "mclogs-neoforge-1.21.9-3.0.9.jar"
+filename = "mclogs-neoforge-1.21.1-3.0.9-mc-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6DdCzpTL/versions/pZJNTnu0/mclogs-neoforge-1.21.9-3.0.9.jar"
+url = "https://cdn.modrinth.com/data/6DdCzpTL/versions/8DQook9v/mclogs-neoforge-1.21.1-3.0.9-mc-1.21.1.jar"
 hash-format = "sha512"
-hash = "b47ec0dd54ad4369711c49f0d8cd0362b0db1d0a44c7b9f52b3d3ce3d68ec22805c517315d8f4d5b2edde7b16f34e403a19627cc52a7750811b4480401da6575"
+hash = "753982359a804bfe7bd888547e20e172e298f174200692c74061824350dbf08a9028f2697b2bae9a14db9d59936464256af1d345b52ac0cd0131b0db61c4833d"
 
 [update]
 [update.modrinth]
 mod-id = "6DdCzpTL"
-version = "pZJNTnu0"
+version = "8DQook9v"

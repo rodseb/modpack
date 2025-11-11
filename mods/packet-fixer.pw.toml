@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "packetfixer-neoforge-3.3.2-1.21.10.jar"
+filename = "packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/CDlPxayA/packetfixer-neoforge-3.3.2-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/V05RgbEn/packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
 hash-format = "sha512"
-hash = "8eda8c2ff9218b17ffb1b9a01df1ef2c3a4e17807bbe35f6240649b9d7875d82384faa5e7119d098c18a83ae2b5f2396aa97b8241cbc4902c984f81b5e463c4c"
+hash = "17fd46a5edd2ecefb67f346fa1ddd8beebd119f9c1598e91211c5d8a4691ae118d81d6628cb39705c0cf1a4d1f09299b76f72c5d286ca5b707c2508633654c12"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "CDlPxayA"
+version = "V05RgbEn"
